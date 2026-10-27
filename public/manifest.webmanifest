@@ -1,0 +1,10 @@
+{
+  "name": "Pedal Bike Rentals",
+  "short_name": "Pedal",
+  "description": "Book your next ride with Pedal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9f6",
+  "theme_color": "#165c45",
+  "icons": []
+}

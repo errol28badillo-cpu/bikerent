@@ -1,0 +1,14 @@
+/freebuff-sites-build/
+
+# Local environment files (keep .env.example tracked)
+.env
+.env.*
+!.env.example
+
+# Generated build output and local runtime artifacts
+node_modules/
+dist/
+*.tsbuildinfo
+.devserver.log
+.devserver.pid
+pedal-bike-rental.zip
